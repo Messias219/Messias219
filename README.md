@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Messias219
 - 👀 I’m interested in ... Programação            
-- 🌱 I’m currently learning ...Devops
+- 🌱 I’m currently learning ...Front-end 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  
 
