@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Messias219
-- 👀 I’m interested in ... Progamação
+- 👀 I’m interested in ... Programação            
 - 🌱 I’m currently learning ...Devops
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...  
 
 <!---
 Messias219/Messias219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
